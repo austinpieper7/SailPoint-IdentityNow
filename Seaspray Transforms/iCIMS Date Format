@@ -1,0 +1,10 @@
+{
+    "attributes": {
+        "attributeName": "Start Date",
+        "sourceName": "iCIMS Report"
+        "inputFormat": "MM/dd/yy"
+        "outputFormat": "yyyy-MM-dd HH:mm:ss"
+    },
+    "type": "dateFormat"                                    
+    "id": "iCIMS Date Format"
+}

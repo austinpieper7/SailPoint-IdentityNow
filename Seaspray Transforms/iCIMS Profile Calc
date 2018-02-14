@@ -1,0 +1,120 @@
+{
+    "attributes": {
+        "values": [
+            {
+                "attributes": {
+                    "values": [
+                        {
+                            "attributes": {
+                                "attributeName": "Job Location",
+                                "sourceName": "iCIMS Report"
+                            },
+                            "type": "accountAttribute"
+                        }
+                    ]
+                },
+                "type": "firstValid"
+            },
+            {
+                "attributes": {
+                    "value": "_"
+                },
+                "type": "static"
+            },
+            {
+                "attributes": {
+                    "values": [
+                        {
+                            "attributes": {
+                                "attributeName": "Org Level 1 Code",
+                                "sourceName": "iCIMS Report"
+                            },
+                            "type": "accountAttribute"
+                        },
+                        {
+                            "attributes": {
+                                "value": "blank"
+                            },
+                            "type": "static"
+                        }
+                    ]
+                },
+                "type": "firstValid"
+            },
+            {
+                "attributes": {
+                    "value": "_"
+                },
+                "type": "static"
+            },
+            {
+                "attributes": {
+                    "values": [
+                        {
+                            "attributes": {
+                                "attributeName": "Department Code",
+                                "sourceName": "iCIMS Report"
+                            },
+                            "type": "accountAttribute"
+                        },
+                        {
+                            "attributes": {
+                                "value": "blank"
+                            },
+                            "type": "static"
+                        }
+                    ]
+                },
+                "type": "firstValid"
+            },
+            {
+                "attributes": {
+                    "value": "_"
+                },
+                "type": "static"
+            },
+            {
+                "attributes": {
+                    "values": [
+                        {
+                            "attributes": {
+                                "attributeName": "Team Code",
+                                "sourceName": "iCIMS Report"
+                            },
+                            "type": "accountAttribute"
+                        },
+                        {
+                            "attributes": {
+                                "value": "blank"
+                            },
+                            "type": "static"
+                        }
+                    ]
+                },
+                "type": "firstValid"
+            },
+            {
+                "attributes": {
+                    "value": "_"
+                },
+                "type": "static"
+            },
+            {
+                "attributes": {
+                    "values": [
+                        {
+                            "attributes": {
+                                "attributeName": "Job Code",
+                                "sourceName": "iCIMS Report"
+                            },
+                            "type": "accountAttribute"
+                        }
+                    ]
+                },
+                "type": "firstValid"
+            }
+        ]
+    },
+    "id": "iCIMS Profile Calc",
+    "type": "concat"
+}
